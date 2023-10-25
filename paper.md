@@ -15,3 +15,5 @@ Ghost performed some ghoulish simulations to scare humans.
 
 Methodology
 
+Results
+Results found Monsters are spooky but also friendly. 
