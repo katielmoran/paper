@@ -1,5 +1,5 @@
-#Title
-#Author
+#New Title
+#Edward Scissorhands & Casper F. Ghost
 
 #Introduction
 
