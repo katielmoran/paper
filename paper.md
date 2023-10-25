@@ -12,3 +12,6 @@ Monsters are incompletely understood and so, additional funding allocated to thi
 project is critical to improve future Halloween events. 
 
 Ghost performed some ghoulish simulations to scare humans. 
+
+Methodology
+
